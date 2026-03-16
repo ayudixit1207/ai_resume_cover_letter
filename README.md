@@ -15,11 +15,11 @@ After installation, run the app and access the Gradio interface in your browser.
 
 ##  Features
 
-- ✅ Generate Resume Summary using AI
-- ✅ Generate Cover Letter using AI
-- ✅ Simple Gradio web interface
-- ❌ No API key required (uses offline models)
-## 📂 Project Structure
+-  Generate Resume Summary using AI
+-  Generate Cover Letter using AI
+-  Simple Gradio web interface
+-  No API key required (uses offline models)
+##  Project Structure
 
 ```
 ai_resume_cover_letter/
